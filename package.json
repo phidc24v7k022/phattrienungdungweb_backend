@@ -1,0 +1,24 @@
+{
+  "name": "back_end_web",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/phidc24v7k022/phattrienungdungweb_backend#readme",
+  "bugs": {
+    "url": "https://github.com/phidc24v7k022/phattrienungdungweb_backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phidc24v7k022/phattrienungdungweb_backend.git"
+  },
+  "license": "ISC",
+  "author": "LE HOANG PHI",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
